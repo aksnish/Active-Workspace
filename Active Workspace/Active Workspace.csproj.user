@@ -2,5 +2,12 @@
 <Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <SharePointSiteUrl>http://cii6w1063/</SharePointSiteUrl>
+    <GeneratedFeatureId>93637acd-55af-4a1a-a6ca-fd6982ffc2c6</GeneratedFeatureId>
+    <GeneratedPackageId>bbb5657c-53a1-4e86-90d0-f7a0cfe884e1</GeneratedPackageId>
+    <GeneratedModuleId>{b6cda2a3-ebf1-467f-8be2-1052692f9976}</GeneratedModuleId>
+    <GeneratedListId>{3477caad-ef0c-4a37-b633-838d13ffd52c}</GeneratedListId>
+    <GeneratedProductId>{acb2110e-6065-49c3-8f10-217b82262ff1}</GeneratedProductId>
+    <GeneratedAppVersion>1.0.0.0</GeneratedAppVersion>
+    <GeneratedClientSecret>b+8FPiBlvvC7VeBR0+aiLlsGp8XlmR2jY5QdzaiQrq0=</GeneratedClientSecret>
   </PropertyGroup>
 </Project>

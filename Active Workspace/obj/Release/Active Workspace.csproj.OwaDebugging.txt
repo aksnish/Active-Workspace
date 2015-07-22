@@ -1,0 +1,7 @@
+False
+93637acd-55af-4a1a-a6ca-fd6982ffc2c6bbb5657c-53a1-4e86-90d0-f7a0cfe884e1
+{b6cda2a3-ebf1-467f-8be2-1052692f9976}{3477caad-ef0c-4a37-b633-838d13ffd52c}
+{acb2110e-6065-49c3-8f10-217b82262ff1}
+1.0.0.0
+Active Workspace
+_layouts/15/

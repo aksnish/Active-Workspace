@@ -7,10 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Active Workspace", "Active 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Active WorkspaceWeb", "Active WorkspaceWeb\Active WorkspaceWeb.csproj", "{35605673-F482-421E-90D6-416C3DFB4E50}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Active Workspace App", "..\Active Workspace App\Active Workspace App\Active Workspace App.vbproj", "{28E51D3B-0208-4350-8325-F9AEF5A5EBDB}"
-EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Active Workspace AppWeb", "..\Active Workspace App\Active Workspace AppWeb\Active Workspace AppWeb.vbproj", "{E1FD97B6-FAAC-437D-8819-4D9EC58473EB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,16 +23,6 @@ Global
 		{35605673-F482-421E-90D6-416C3DFB4E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35605673-F482-421E-90D6-416C3DFB4E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35605673-F482-421E-90D6-416C3DFB4E50}.Release|Any CPU.Build.0 = Release|Any CPU
-		{28E51D3B-0208-4350-8325-F9AEF5A5EBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28E51D3B-0208-4350-8325-F9AEF5A5EBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28E51D3B-0208-4350-8325-F9AEF5A5EBDB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{28E51D3B-0208-4350-8325-F9AEF5A5EBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28E51D3B-0208-4350-8325-F9AEF5A5EBDB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{28E51D3B-0208-4350-8325-F9AEF5A5EBDB}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{E1FD97B6-FAAC-437D-8819-4D9EC58473EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E1FD97B6-FAAC-437D-8819-4D9EC58473EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E1FD97B6-FAAC-437D-8819-4D9EC58473EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E1FD97B6-FAAC-437D-8819-4D9EC58473EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+c:\users\hm7xnk\documents\visual studio 2013\Projects\Active Workspace\Active WorkspaceWeb\bin\Active WorkspaceWeb.dll.config
+c:\users\hm7xnk\documents\visual studio 2013\Projects\Active Workspace\Active WorkspaceWeb\bin\Active WorkspaceWeb.dll
+c:\users\hm7xnk\documents\visual studio 2013\Projects\Active Workspace\Active WorkspaceWeb\bin\Active WorkspaceWeb.pdb
+c:\users\hm7xnk\documents\visual studio 2013\Projects\Active Workspace\Active WorkspaceWeb\obj\Debug\Active WorkspaceWeb.csprojResolveAssemblyReference.cache
+c:\users\hm7xnk\documents\visual studio 2013\Projects\Active Workspace\Active WorkspaceWeb\obj\Debug\Active WorkspaceWeb.dll
+c:\users\hm7xnk\documents\visual studio 2013\Projects\Active Workspace\Active WorkspaceWeb\obj\Debug\Active WorkspaceWeb.pdb

@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\Active WorkspaceManifest.xml
+C:\Users\hm7xnk\documents\visual studio 2013\Projects\Active Workspace\Active Workspace\bin\Debug\Active Workspace.debugapp
